@@ -15,3 +15,12 @@ a record for my leetcode
 
 [641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)
 
+[147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
+
+[1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)
+
+[560. 和为k的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
+
+
+
+
