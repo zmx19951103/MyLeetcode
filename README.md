@@ -31,6 +31,10 @@ a record for my leetcode
 
 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 
+[179. 最大数](https://leetcode-cn.com/problems/largest-number/)
+
+[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+
 
 
 
