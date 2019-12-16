@@ -23,6 +23,8 @@ a record for my leetcode
 
 [3. 无重复字符的最长字串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
+[89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
+
 
 
 
