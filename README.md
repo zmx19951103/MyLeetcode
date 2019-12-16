@@ -25,6 +25,11 @@ a record for my leetcode
 
 [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
 
+[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+
+[114. 二叉树展开为列表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+
+[543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 
 
 
