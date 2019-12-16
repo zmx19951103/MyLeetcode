@@ -21,6 +21,9 @@ a record for my leetcode
 
 [560. 和为k的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 
+[3. 无重复字符的最长字串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+
+
 
 
 
