@@ -39,6 +39,12 @@ a record for my leetcode
 
 [95. 不同的二叉搜索树ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 
+[10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
+
+[123. 买股票的最佳时机III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
+
+[221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
+
 
 
 
