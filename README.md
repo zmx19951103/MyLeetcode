@@ -35,6 +35,8 @@ a record for my leetcode
 
 [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 
+[56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
+
 
 
 
