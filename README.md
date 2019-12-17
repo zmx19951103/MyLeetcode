@@ -53,7 +53,7 @@ a record for my leetcode
 
 [剑指offer](https://www.nowcoder.com/ta/coding-interviews?page=3)
 
-[109. 有序列表转换儿茶搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+[109. 有序列表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
 
 
 
