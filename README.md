@@ -57,6 +57,11 @@ a record for my leetcode
 
 [108. 有序数组转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 
+[187. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+
+[93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
+
+
 
 
 
