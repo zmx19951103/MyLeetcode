@@ -45,6 +45,10 @@ a record for my leetcode
 
 [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
 
+[451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
+
+[387. 字符串的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+
 
 
 
