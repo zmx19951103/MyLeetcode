@@ -49,6 +49,11 @@ a record for my leetcode
 
 [387. 字符串的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 
+[72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)
+
+[剑指offer](https://www.nowcoder.com/ta/coding-interviews?page=3)
+
+[109. 有序列表转换儿茶搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
 
 
 
