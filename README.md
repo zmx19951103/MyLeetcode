@@ -63,6 +63,7 @@ a record for my leetcode
 
 [450. 删除二叉搜索树的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
 
+[114. 二叉树展开为列表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 
-
+[876. 链表的中间节点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 
