@@ -63,6 +63,6 @@ a record for my leetcode
 
 [450. 删除二叉搜索树的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
 
-
+[60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
 
 
