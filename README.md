@@ -65,4 +65,8 @@ a record for my leetcode
 
 [60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
 
+[114. 二叉树展开为列表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+
+[876. 链表的中间节点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+
 
