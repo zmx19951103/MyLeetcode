@@ -70,3 +70,5 @@ a record for my leetcode
 [876. 链表的中间节点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 
 [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+
+[237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
