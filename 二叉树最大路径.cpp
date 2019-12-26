@@ -35,3 +35,4 @@ public:
     }
     int res = INT_MIN;
 };
+//和求树直径的思路一样，深搜
